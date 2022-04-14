@@ -1,0 +1,18 @@
+/* exemplo de código CSS aqui */
+html, body {
+    height: 100%;
+}
+
+body {
+    display: grid;
+    place-items: center;
+}
+
+h1 {
+    font-size: 1.5rem;
+}
+
+a {
+    color: lightgray;
+    text-decoration: none;
+}
